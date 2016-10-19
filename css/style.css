@@ -1,0 +1,27 @@
+#ett {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px 0;
+}
+
+#translate_this {
+  width: 400px;
+  margin: auto;
+}
+
+#language {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.form-group {
+text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
